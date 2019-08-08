@@ -1,0 +1,16 @@
+{
+  "name": "astra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Ilyas Ezzahid",
+  "license": "ISC",
+  "homepage": "https://ilyasEzz.github.io/Astra",
+  "dependencies": {
+    "gh-pages": "^2.1.0"
+  }
+}
