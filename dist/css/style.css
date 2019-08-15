@@ -96,6 +96,10 @@ h1 {
   h1 {
     font-size: 40px;
   }
+
+  #map {
+    min-height: 300px;
+  }
 }
 
 @media (min-width: 1024px) {
